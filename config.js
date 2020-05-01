@@ -1,7 +1,7 @@
 var CONFIG = {
   "maps": {
     "world": {
-      "defaultZoom": 2,
+      "defaultZoom": 3,
       "imageFormat": "jpg",
       "lastRendered": [
         1579880807,
